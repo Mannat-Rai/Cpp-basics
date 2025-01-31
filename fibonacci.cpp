@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    //Program to Fibonacci series upto n terms.
+    //Program for Fibonacci series upto n terms.
 
     int a , b , c , i , terms;
     cout<<"Enter number of terms."<<endl;
